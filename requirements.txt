@@ -1,0 +1,8 @@
+paddleocr
+pymongo
+opencv-python-headless
+tkinter
+harvesters
+numpy
+paddleocr
+pillow
