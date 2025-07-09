@@ -1,2 +1,2 @@
 # OCR_Detection
-OCR Textextraction using paddleOCR
+OCR live Textextraction using paddleOCR and Baumer Camera
